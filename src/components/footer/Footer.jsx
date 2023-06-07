@@ -25,7 +25,7 @@ const Footer = () => {
           <div>
             <div className='w-[359px]'>
               <img
-                src='/src/assets/navbarLogo.png'
+                src='/assets/navbarLogo.png'
                 className='w-[207px] h-[50px] object-cover mt-4'
                 alt=''
               />

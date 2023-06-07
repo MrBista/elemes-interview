@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav className=' h-[89px] flex justify-center z-30 relative'>
       <div className='w-[90vw] flex items-center justify-between py-2'>
-        <img src='/src/assets/navbarLogo.png' alt='' />
+        <img src='/assets/navbarLogo.png' alt='' />
 
         <ul className='hidden md:flex text-[.875rem] text-[#757575] font-semibold'>
           <li className='cursor-pointer px-4 py-1   hover:text-primary transition-all ease-in  '>

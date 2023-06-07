@@ -8,10 +8,10 @@ const Banner = () => {
         Good Food Us Good Mood
       </p>
       <div className=' justify-items-end  md:order-last relative'>
-        <div className='bg-[url("/src/assets/bannerImg.png")] md:h-[414.75px] md:w-[412.9px] h-[250px] w-[250px] bg-cover border-[1.5rem] md:border-[3rem] border-black/5 rounded-full bg-no-repeat  relative'>
+        <div className='bg-[url("/assets/bannerImg.png")] md:h-[414.75px] md:w-[412.9px] h-[250px] w-[250px] bg-cover border-[1.5rem] md:border-[3rem] border-black/5 rounded-full bg-no-repeat  relative'>
           <div className='md:w-[292px]  flex gap-x-4 bg-white/75 rounded-[1.0625rem] shadow-[0_11px_39px_rgba(0, 0, 0, 0.07)] border-2 md:px-4 md:py-2 px-2 py-1 items-center absolute -right-[5rem] -bottom-[2rem] md:-left-[9.5rem] backdrop-blur-[5.5px] '>
             <img
-              src='/src/assets/bannerImg.png'
+              src='/assets/bannerImg.png'
               alt=''
               className='w-[53px] h-[53px] object-cover'
             />
