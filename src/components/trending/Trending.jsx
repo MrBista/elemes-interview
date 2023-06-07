@@ -1,5 +1,4 @@
 import React from 'react';
-import CardTrending from './CardTrending';
 import Card from '../card/Card';
 import { trendingFood } from '../../data/data';
 
